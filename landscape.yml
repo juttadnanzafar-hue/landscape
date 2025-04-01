@@ -241,6 +241,15 @@ landscape:
               name: Eydle Inc
               linkedin: https://www.linkedin.com/company/eydle
           - item:
+            name: HAZERCLOUD
+            description: >-
+              HAZERCLOUD simplifies clients' tasks through DevOps solutions, practices, and automation. They offer Dedicated DevOps, CloudOps, and SysOps
+              Engineers for immediate project support, delivering robust infrastructure solutions. Specializing in AWS and Azu...
+            homepage_url: https://hazercloud.com/
+            logo: hazercloud.svg
+            organization:
+              name: HAZERCLOUD
+          - item:
             name: Hypori Inc
             homepage_url: https://hypori.com/
             logo: hypori_inc.svg
@@ -399,6 +408,18 @@ landscape:
             organization:
               name: RedHunt Labs
               linkedin: https://www.linkedin.com/company/redhunt-labs
+          - item:
+            name: Rex Cyber Solutions
+            description: >-
+              Rex Cyber Solutions is a top Information Security Consultancy providing global cyber security solutions, specializing in auditing, testing,
+              forensics, and incident response for organizations worldwide.
+            homepage_url: https://rexcybersolutions.com/
+            logo: rex_cyber_solutions.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/rexcybersolutions
+            organization:
+              name: Rex Cyber Solutions
+              linkedin: https://www.linkedin.com/company/rexcybersolutions
           - item:
             name: RootShell Security
             description: >-
